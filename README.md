@@ -1,4 +1,4 @@
-# education-infrastructure-powerbi-analysis
+# Education-infrastructure-powerbi-analysis
 Power BI dashboard analyzing education infrastructure in India using NDAP dataset.
 # Education Infrastructure Analysis in India (Power BI)
 
